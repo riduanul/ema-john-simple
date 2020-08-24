@@ -1,0 +1,9 @@
+.cart-button{
+    background-color:goldenrod;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 400px;
+    height: 40px;
+    cursor: pointer;
+    
+}
